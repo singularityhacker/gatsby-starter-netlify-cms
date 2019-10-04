@@ -1,33 +1,30 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: March 2017 Spay & Neuter Clinic
+date: 2017-03-15T14:04:10.000Z
+description: >-
+  March 2017 Trap, Neuter, Release Clinic In March of 2017, we held our very
+  first guest bartending event at Johnny’s…
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 tags:
-  - flavor
-  - tasting
+  - cats
+  - feral
+  - neuter
+  - rescue
+  - spay
+  - TNR
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+In March of 2017, we held our very first guest bartending event at Johnny’s Wife’s Place in Jeanette, PA. Through the 50/50 & money tree raffle, the tips for the bartending competition, and donations, we were able to raise $1,900 in 3 hours! With such a successful night, we planned to utilize those funds for our TNR (trap, neuter, release) clinic a couple weeks later.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Some of the feral cats spayed or neutered.
 
-## What the updates mean to you
+Through the dedicated work of our volunteers, we were able to humanely trap almost 50 feral cats the week leading up to our Sunday clinic. 35 of these cats were street cats from Jeanette alone. Breaking it down further, 30 male cats were neutered and 19 female cats were spayed. A few of these strays had ongoing problems such as, upper respiratory infections, abscesses, a ruptured eye ball, and a tail in need of amputation. Thanks to our allies at Frankie’s Friend’s Cat Rescue, they were able to safely perform all the surgeries and give the extra medical care to those who needed it.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+There were a few pets sprinkled into our clinic, and Frankie’s Friends graciously used their Petco feral cat colony grant to only invoice those pets fixed on Sunday. The money raised by our guest bartending event was originally planned to pay for the clinic, but we are now able to utilize those donations to fix even more free-roaming cats in the future! There are no words for how much we thank you, Frankie’s Friends!
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+An amazing team dedicated to helping cats in Western, PA.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+The number of kittens prevented by this singular clinic is countless and astonishing. One day of devotion from all of these amazing people has helped to shape the future of Jeanette’s feral cat problem. A standing ovation to Frankie’s Friends Cat Rescue, our committed volunteers, Hungry Hank’s Pizzeria for donating food, and the property owners who graciously allowed us to set the humane traps. Without you, we would not have been able to do it!
