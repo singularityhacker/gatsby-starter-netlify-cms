@@ -6,7 +6,7 @@ description: >-
   March 2017 Trap, Neuter, Release Clinic In March of 2017, we held our very
   first guest bartending event at Johnny’s…
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/40434442-2048.jpg
 tags:
   - cats
   - feral
