@@ -6,7 +6,7 @@ description: >-
   Tuesday, March 7th, at Johnny’s Wife’s Place in Jeannette, PA from 6-9pm Come
   on out for great food and drinks!…
 featuredpost: false
-featuredimage: /img/chemex.jpg
+featuredimage: /img/alone-kitten-white-960x540.jpg
 tags:
   - bartending
   - event
