@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: SOS Animal Rescue
-image: /img/home-jumbotron.jpg
+image: /img/lady-dinahs-cat-emporium-london.jpg
 heading: Our Story
 subheading: ' '
 mainpitch:
@@ -15,21 +15,21 @@ description: >-
   growing due to overwhelming support from friends, family, and the community.  
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/43b30aa9a85b84b13528cc9b1e791537.png
       text: >-
         Our mission is to help reduce the unwanted pet population by properly
         vaccinating, spaying/neutering, and caring for them until a forever home
         is found. 
-    - image: /img/coffee-gear.png
+    - image: /img/cats-icon-17.png
       text: >-
         We also want to educate the public on numerous domestic animal issues
         and help people become better pet owners. 
-    - image: /img/tutorials.png
+    - image: /img/054f8a8791ec8948bb2772695c4ec2e1.png
       text: >-
         At this time, SOS is only caring for kittens and cats. SOS is operating
         as a foster home-based rescue, and does not currently own a building or
         shelter. 
-    - image: /img/meeting-space.png
+    - image: /img/cat_animal_-512.png
       text: 'For the most recent news and events, please follow us on Facebook.'
   heading: What we offer
   description: >
